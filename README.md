@@ -17,7 +17,7 @@ My personal portfolio aims to display my skills in coding so far and how good a 
 ### Screenshot
 ![Portfolio](assets/img/screenshot1.png)
 
-![Portfolio] (assets/img/screenshot2.png)
+[Portfolio](assets/img/screenshot2.png)
 
 ### Link
 
