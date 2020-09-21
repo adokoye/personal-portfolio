@@ -405,7 +405,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .header {
 	background: linear-gradient(brown (0,0,0, .1), brown (0,0,0, .4));
-	background: url(/Users/adaobicynthiaa/Desktop/Projects/personal-portfolio/assets/img/Home.jpeg);
+	background: url(https://github.com/adokoye/personal-portfolio/blob/master/assets/img/Home.jpeg);
     height: 100vh;
     background-size: cover;
     background-position: center;
